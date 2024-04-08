@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34031.279
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PLB", "PLB.csproj", "{AEDB414D-C412-4BAE-B687-647825684740}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hudava", "Hudava.csproj", "{AEDB414D-C412-4BAE-B687-647825684740}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

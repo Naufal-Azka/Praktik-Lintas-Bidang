@@ -35,7 +35,6 @@ namespace PLB
 
         private void vitaminClick(object sender, EventArgs e)
         {
-            vitamin.Dock = DockStyle.Fill;
             this.Controls.Add(vitamin);
 
             panelVitamin.Hide();
@@ -54,8 +53,6 @@ namespace PLB
 
         private void suplemenClick(object sender, EventArgs e)
         {
-            //suplemen.Dock = DockStyle.Fill;
-            //suplemen.Location = DesktopLocation; 
             this.Controls.Add(suplemen);
 
             panelVitamin.Hide();

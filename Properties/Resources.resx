@@ -118,7 +118,121 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="HJ METFORMIN 500MG - 3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\HJ METFORMIN 500MG - 3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="dulcolax-0-alodokter" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\dulcolax-0-alodokter.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Lacidofil" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Lacidofil.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_PLB" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Icon-PLB.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="farmaku_sanadryl-dmp-syrup-120-ml-01" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\farmaku_sanadryl-dmp-syrup-120-ml-01.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="WhatsApp Image 2024-03-07 at 01.01.13_61c0d787" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\WhatsApp Image 2024-03-07 at 01.01.13_61c0d787.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Nutren Fibre" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Nutren Fibre.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="SEA Q Selenium ACE" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\SEA Q Selenium ACE.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="CDR EFF" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\CDR EFF.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Natur-E" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Natur-E.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Apotek_Online_Farmaku.com_Smecta_Suspensi_Oral" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Apotek_Online_Farmaku.com_Smecta_Suspensi_Oral.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Benadryl" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Benadryl.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Sangobion" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Sangobion.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Lisinopril" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Lisinopril.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Redoxon Zinc EFF" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Redoxon Zinc EFF.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="natures-plus-vitamin-d3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\natures-plus-vitamin-d3.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="1548384097_amlodipine-5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\1548384097_amlodipine-5.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Loperamide 2 Mg" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Loperamide 2 Mg.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Itraconazole" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Itraconazole.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="guaifenesin" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\guaifenesin.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="farmaku_glibenclamide-5-mg-tablet-kf-01" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\farmaku_glibenclamide-5-mg-tablet-kf-01.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="farmaku_loratadine-10-mg-tablet-novell-01" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\farmaku_loratadine-10-mg-tablet-novell-01.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Blackmores Magnesium" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Blackmores Magnesium.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="Logo PLB" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Logo PLB.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Blackmores" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Blackmores.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Now Foods Vit K" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Now Foods Vit K.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Lansoprazole" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Lansoprazole.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Atorvastatin" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Atorvastatin.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="1662515495_5fb3772241ab59059e867850" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\1662515495_5fb3772241ab59059e867850.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="farmaku_fluconazole-150-mg-capsule-kf-01" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\farmaku_fluconazole-150-mg-capsule-kf-01.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Ultra Vit B Kompleks" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Ultra Vit B Kompleks.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="farmaku_omeprazole-20-mg-capsule-novell-01" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\farmaku_omeprazole-20-mg-capsule-novell-01.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="farmaku_simvastatin-10-mg-tablet-hexp-01" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\farmaku_simvastatin-10-mg-tablet-hexp-01.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="paracetamol-box-1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\paracetamol-box-1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="VitaminReal" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\VitaminReal.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Apotek_Online_Farmaku_com_Lactulax_200_ml" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Apotek_Online_Farmaku_com_Lactulax_200_ml.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Eyevit" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Eyevit.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="amoxicillin-crop-u133004" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\amoxicillin-crop-u133004.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Suplemen" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Suplemen.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

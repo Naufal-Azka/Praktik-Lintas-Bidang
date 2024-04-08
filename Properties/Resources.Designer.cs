@@ -63,9 +63,389 @@ namespace PLB.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap _1548384097_amlodipine_5 {
+            get {
+                object obj = ResourceManager.GetObject("1548384097_amlodipine-5", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _1662515495_5fb3772241ab59059e867850 {
+            get {
+                object obj = ResourceManager.GetObject("1662515495_5fb3772241ab59059e867850", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap amoxicillin_crop_u133004 {
+            get {
+                object obj = ResourceManager.GetObject("amoxicillin-crop-u133004", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Apotek_Online_Farmaku_com_Lactulax_200_ml {
+            get {
+                object obj = ResourceManager.GetObject("Apotek_Online_Farmaku_com_Lactulax_200_ml", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Apotek_Online_Farmaku_com_Smecta_Suspensi_Oral {
+            get {
+                object obj = ResourceManager.GetObject("Apotek_Online_Farmaku.com_Smecta_Suspensi_Oral", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Atorvastatin {
+            get {
+                object obj = ResourceManager.GetObject("Atorvastatin", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Benadryl {
+            get {
+                object obj = ResourceManager.GetObject("Benadryl", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Blackmores {
+            get {
+                object obj = ResourceManager.GetObject("Blackmores", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Blackmores_Magnesium {
+            get {
+                object obj = ResourceManager.GetObject("Blackmores Magnesium", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap CDR_EFF {
+            get {
+                object obj = ResourceManager.GetObject("CDR EFF", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap dulcolax_0_alodokter {
+            get {
+                object obj = ResourceManager.GetObject("dulcolax-0-alodokter", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Eyevit {
+            get {
+                object obj = ResourceManager.GetObject("Eyevit", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap farmaku_fluconazole_150_mg_capsule_kf_01 {
+            get {
+                object obj = ResourceManager.GetObject("farmaku_fluconazole-150-mg-capsule-kf-01", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap farmaku_glibenclamide_5_mg_tablet_kf_01 {
+            get {
+                object obj = ResourceManager.GetObject("farmaku_glibenclamide-5-mg-tablet-kf-01", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap farmaku_loratadine_10_mg_tablet_novell_01 {
+            get {
+                object obj = ResourceManager.GetObject("farmaku_loratadine-10-mg-tablet-novell-01", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap farmaku_omeprazole_20_mg_capsule_novell_01 {
+            get {
+                object obj = ResourceManager.GetObject("farmaku_omeprazole-20-mg-capsule-novell-01", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap farmaku_sanadryl_dmp_syrup_120_ml_01 {
+            get {
+                object obj = ResourceManager.GetObject("farmaku_sanadryl-dmp-syrup-120-ml-01", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap farmaku_simvastatin_10_mg_tablet_hexp_01 {
+            get {
+                object obj = ResourceManager.GetObject("farmaku_simvastatin-10-mg-tablet-hexp-01", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap guaifenesin {
+            get {
+                object obj = ResourceManager.GetObject("guaifenesin", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap HJ_METFORMIN_500MG___3 {
+            get {
+                object obj = ResourceManager.GetObject("HJ METFORMIN 500MG - 3", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+        /// </summary>
+        internal static System.Drawing.Icon Icon_PLB {
+            get {
+                object obj = ResourceManager.GetObject("Icon_PLB", resourceCulture);
+                return ((System.Drawing.Icon)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Itraconazole {
+            get {
+                object obj = ResourceManager.GetObject("Itraconazole", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Lacidofil {
+            get {
+                object obj = ResourceManager.GetObject("Lacidofil", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Lansoprazole {
+            get {
+                object obj = ResourceManager.GetObject("Lansoprazole", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Lisinopril {
+            get {
+                object obj = ResourceManager.GetObject("Lisinopril", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap Logo_PLB {
             get {
                 object obj = ResourceManager.GetObject("Logo PLB", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Loperamide_2_Mg {
+            get {
+                object obj = ResourceManager.GetObject("Loperamide 2 Mg", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Natur_E {
+            get {
+                object obj = ResourceManager.GetObject("Natur-E", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap natures_plus_vitamin_d3 {
+            get {
+                object obj = ResourceManager.GetObject("natures-plus-vitamin-d3", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Now_Foods_Vit_K {
+            get {
+                object obj = ResourceManager.GetObject("Now Foods Vit K", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Nutren_Fibre {
+            get {
+                object obj = ResourceManager.GetObject("Nutren Fibre", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap paracetamol_box_1 {
+            get {
+                object obj = ResourceManager.GetObject("paracetamol-box-1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Redoxon_Zinc_EFF {
+            get {
+                object obj = ResourceManager.GetObject("Redoxon Zinc EFF", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Sangobion {
+            get {
+                object obj = ResourceManager.GetObject("Sangobion", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap SEA_Q_Selenium_ACE {
+            get {
+                object obj = ResourceManager.GetObject("SEA Q Selenium ACE", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Suplemen {
+            get {
+                object obj = ResourceManager.GetObject("Suplemen", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Ultra_Vit_B_Kompleks {
+            get {
+                object obj = ResourceManager.GetObject("Ultra Vit B Kompleks", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap VitaminReal {
+            get {
+                object obj = ResourceManager.GetObject("VitaminReal", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap WhatsApp_Image_2024_03_07_at_01_01_13_61c0d787 {
+            get {
+                object obj = ResourceManager.GetObject("WhatsApp Image 2024-03-07 at 01.01.13_61c0d787", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
